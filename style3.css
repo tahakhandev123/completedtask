@@ -1,0 +1,25 @@
+h1{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aqua;
+}
+.para{
+    font-size: 30px;
+    color: seagreen;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h3{
+    background-color: blueviolet;
+}
+img{
+    width: 300px;
+}
